@@ -6,6 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## for making new anular project you can run this command.
 ng new projectName --style-sass --routing= false
 and run 
+cd projectname
+then
 ng add @angular/material
 
 ## First Replace src folder of your new project with my src folder in this repository and then
