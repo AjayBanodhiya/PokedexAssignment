@@ -2,14 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
-## First Insall Algular on your machine andd vs code.
+## First Insall Algular on your machine and vs code.
 ## for making new anular project you can run this command.
 ng new projectName --style-sass --routing= false
 
 
 ## First Replace src folder of your new project with my src folder in this repository and then
 first run on CMD or terminal of vs code
-'cd yourprojectName' thhis is command to reach project folder.
+'cd yourprojectName' this is command to reach project folder.
 then
 ## For run this project start Development server 
 
