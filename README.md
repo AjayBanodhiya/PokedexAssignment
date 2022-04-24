@@ -5,7 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## First Insall Algular on your machine and vs code.
 ## for making new anular project you can run this command.
 ng new projectName --style-sass --routing= false
-
+and run 
+ng add @angular/material
 
 ## First Replace src folder of your new project with my src folder in this repository and then
 first run on CMD or terminal of vs code
